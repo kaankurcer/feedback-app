@@ -3,7 +3,7 @@ import Header from "./components/Header"
 function App() {
   return (
     <>
-      <Header text='Hello World' />
+      <Header />
       <div className="container">
         <div>My App</div>
       </div>
